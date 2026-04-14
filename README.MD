@@ -1,4 +1,4 @@
-# Criando uma Dashboard de Vendas do Xbox com Excel - Desafio 3
+# Redução dos Custos em Farmácias com AWS - Desafio 
 
 Olá, este é o meu repositório do desafio **Redução dos Custos em Farmácias com AWS**, do bootcamp "TOTVS - Fundamentos de Engenharia de Dados e Machine Learning" da Dio.me!
 
